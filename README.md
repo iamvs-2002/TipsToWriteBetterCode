@@ -33,5 +33,5 @@ Now, once you have a good working knowledge of any one programming language, the
   CASE 1: int a=5;     
   CASE 2: int numberOfIndividuals=5;
        
-       As seen from above, the second CASE looks more friendly and is easier to understand as compared to first.
+  As seen from above, the second CASE looks more friendly and is easier to understand as compared to first.
        
