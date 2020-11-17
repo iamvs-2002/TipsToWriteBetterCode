@@ -1,6 +1,6 @@
 # Tips to write better code
 
-Two Word Answer : Practice & Endurance
+## Two Word Answer : Practice & Endurance
 
 Now, once you have a good working knowledge of any one programming language, the following tips may become handy:
 
@@ -51,4 +51,5 @@ Now, once you have a good working knowledge of any one programming language, the
   Always delete the unnecessary code. There is no point in keeping the old code, and comment it out. It will just look messy and unnecessarily long.
   
   
-       
+  ## The main keywords to always keep in mind are consistency, simplicity, and readability.
+  
